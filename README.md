@@ -1,2 +1,2 @@
 # SLBot
-Secons Life Pikku Bot Startscript
+Second Life Pikku Bot Startscript
