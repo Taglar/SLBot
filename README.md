@@ -8,5 +8,5 @@ Second Life Pikku Bot Startscript
 5. Set [Owner Name] to the full name of the owner eg. Tagler Nirvana
 6. Set the [PID Path] from step 1 eg. /opt/bots/slbot/YourBotname.pid
 7. Set the [Full path of log directory and file] to the same log path from Step 2 eg /opt/bots/logs/CronSL.log
-8. If u like to start more bots delete the # in front of sleep 15 and copy the script from "for ..." to "... fi" andmove the "done" to the end of the file
-10. Add a cronjob for the file and let it run every 15, 30, 45 or 60 minutes.
+8. If u like to start more bots delete the # in front of sleep 15 and copy the script from "for ..." to "... fi" and move the "done" to the end of the file
+9. Add a cronjob for the file and let it run every 15, 30, 45 or 60 minutes.
